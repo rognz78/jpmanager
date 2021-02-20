@@ -69,13 +69,13 @@ export default function UsersTable(props) {
   }, []);
 
   const loadUsers = async () => {
-    const result = await axios.get("http://localhost:3003/users");
+    const result = await axios.get("https://my-json-server.typicode.com/rognz78/jpmanager/users");
     setUser(result.data.reverse());
     setCount(result.data.length);
   };
 
   const deleteUser = async id => {
-    await axios.delete(`http://localhost:3003/users/${id}`);
+    await axios.delete(`https://my-json-server.typicode.com/rognz78/jpmanager/users/${id}`);
     loadUsers();
   };
   
