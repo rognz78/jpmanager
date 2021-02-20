@@ -69,7 +69,7 @@ export default function UsersTable(props) {
   }, []);
 
   const loadUsers = async () => {
-    const result = await get("https://my-json-server.typicode.com/rognz78/jpmanager/users");
+    const result = await axios.get("https://my-json-server.typicode.com/rognz78/jpmanager/users");
     setUser(result.data.reverse());
     setCount(result.data.length);
   };
