@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/jpmanager/static/css/main.e016a61e.chunk.css",
-    "main.js": "/jpmanager/static/js/main.d9f99f03.chunk.js",
-    "main.js.map": "/jpmanager/static/js/main.d9f99f03.chunk.js.map",
+    "main.js": "/jpmanager/static/js/main.15a771c9.chunk.js",
+    "main.js.map": "/jpmanager/static/js/main.15a771c9.chunk.js.map",
     "runtime-main.js": "/jpmanager/static/js/runtime-main.75f07840.js",
     "runtime-main.js.map": "/jpmanager/static/js/runtime-main.75f07840.js.map",
     "static/css/2.658248ec.chunk.css": "/jpmanager/static/css/2.658248ec.chunk.css",
-    "static/js/2.390a2adb.chunk.js": "/jpmanager/static/js/2.390a2adb.chunk.js",
-    "static/js/2.390a2adb.chunk.js.map": "/jpmanager/static/js/2.390a2adb.chunk.js.map",
+    "static/js/2.c033b43a.chunk.js": "/jpmanager/static/js/2.c033b43a.chunk.js",
+    "static/js/2.c033b43a.chunk.js.map": "/jpmanager/static/js/2.c033b43a.chunk.js.map",
     "static/js/3.f0baaf5b.chunk.js": "/jpmanager/static/js/3.f0baaf5b.chunk.js",
     "static/js/3.f0baaf5b.chunk.js.map": "/jpmanager/static/js/3.f0baaf5b.chunk.js.map",
     "index.html": "/jpmanager/index.html",
     "static/css/2.658248ec.chunk.css.map": "/jpmanager/static/css/2.658248ec.chunk.css.map",
     "static/css/main.e016a61e.chunk.css.map": "/jpmanager/static/css/main.e016a61e.chunk.css.map",
-    "static/js/2.390a2adb.chunk.js.LICENSE.txt": "/jpmanager/static/js/2.390a2adb.chunk.js.LICENSE.txt"
+    "static/js/2.c033b43a.chunk.js.LICENSE.txt": "/jpmanager/static/js/2.c033b43a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.75f07840.js",
     "static/css/2.658248ec.chunk.css",
-    "static/js/2.390a2adb.chunk.js",
+    "static/js/2.c033b43a.chunk.js",
     "static/css/main.e016a61e.chunk.css",
-    "static/js/main.d9f99f03.chunk.js"
+    "static/js/main.15a771c9.chunk.js"
   ]
 }
